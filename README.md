@@ -1,27 +1,30 @@
-Olá! Eu sou João Lucas 🚀
-GitHub Stats
-Top Languages
-Desenvolvedor Fullstack em busca de transformar ideias em realidade através da tecnologia. Explorando o mundo do HTML, CSS, JavaScript e além!
 
-🔭 Projetos Atuais
+# Olá! Eu sou João Lucas 🚀
 
-🎮 GameMasters: Onde os mestres dos jogos se encontram.
-🌱 Aprendizado em Progresso
+## Sobre Mim
+Desenvolvedor Fullstack em busca de transformar ideias em realidade através da tecnologia. Atualmente, estou explorando o mundo do HTML, CSS, JavaScript e além!
 
-HTML CSS JavaScript Database Gmail
-📚 Aprendendo React.js para criar interfaces de usuário dinâmicas.
-📚 Aprendendo HTML
-📚 Aprendendo CSS
-📚 Aprendendo Java Scripy - JS
-📚 Aprendendo Banco de Dados SQL-Server
-🔍 Explorando Node.js para back-end robusto.
-🤝 Vamos Colaborar!
-💡 Tenho ideias sobre desenvolvimento web e design que adoraria compartilhar.
-🤔 Precisa de ajuda com seu projeto? Estou aberto a novos desafios!
-📫 Como Me Encontrar
+## 🔭 Projetos Atuais
+- **GameMasters:** Onde os mestres dos jogos se encontram. Um espaço dedicado a entusiastas de jogos, onde podemos compartilhar e discutir nossas experiências.
 
-💌 Envie um e-mail para jlucas9991@gmail.com .
-💼 https://www.linkedin.com/in/joão-lucas-4306701a1/ Conecte-se comigo no LinkedIn.
+## 🌱 Aprendizado em Progresso
+- **HTML:** Dominando a estruturação de páginas web.
+- **CSS:** Aprendendo a criar estilos envolventes e responsivos.
+- **JavaScript:** Aprofundando conhecimentos para criar interatividade.
+- **React.js:** Explorando a criação de interfaces de usuário dinâmicas e reativas.
+- **SQL Server:** Aprendendo sobre bancos de dados e manipulação de dados.
+- **ETL:** Trabalhando com extração, transformação e carga de dados para projetos de análise.
+- **Node.js:** Explorando back-end robusto para desenvolver aplicações escaláveis.
 
+## 🤝 Vamos Colaborar!
+💡 Estou sempre aberto a novas ideias sobre desenvolvimento web e design. Se você tem um projeto ou uma ideia que gostaria de discutir, ficarei feliz em ajudar!
 
-"O único limite para a nossa realização de amanhã são as nossas dúvidas de hoje." – Franklin D. Roosevelt
+## 📫 Como Me Encontrar
+- 💌 Envie um e-mail para [jlucas9991@gmail.com](mailto:jlucas9991@gmail.com)
+- 💼 [Conecte-se comigo no LinkedIn](https://www.linkedin.com/in/joão-lucas-4306701a1/)
+
+---
+
+> "O simples da vida é irrelevante ." –
+
+---
