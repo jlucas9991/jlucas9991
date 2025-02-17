@@ -5,7 +5,7 @@
 Desenvolvedor Fullstack em busca de transformar ideias em realidade através da tecnologia. Atualmente, estou explorando o mundo do HTML, CSS, JavaScript e além!
 
 ## 🔭 Projetos Atuais
-- **GameMasters:** Onde os mestres dos jogos se encontram. Um espaço dedicado a entusiastas de jogos, onde podemos compartilhar e discutir nossas experiências.
+🎢 ETL & BI: Focado na criação de pipelines de dados, com extração, transformação e carga (ETL) para análise de dados e geração de relatórios interativos e visualizações com Business Intelligence.
 
 ## 🌱 Aprendizado em Progresso
 - **HTML:** Dominando a estruturação de páginas web.
